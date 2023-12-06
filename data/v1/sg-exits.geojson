@@ -1,0 +1,9542 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 468687306,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.770676,
+					1.384465
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 468677590,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76941,
+					1.387812
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1231863438,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764677,
+					1.386833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 491381927,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762326,
+					1.382875
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 851619532,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745101,
+					1.380318
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2304556161,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.749227,
+					1.378465
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1823416814,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.753826,
+					1.376564
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3159218201,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758252,
+					1.378614
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 468985678,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766793,
+					1.377603
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3542347307,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.771328,
+					1.376297
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1152534824,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "BP9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.772591,
+					1.379853
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3937368135,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC10-DT26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.889793,
+					1.326679
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3699087044,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC10-DT26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.890666,
+					1.325855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2149212485,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC10-DT26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.890263,
+					1.325482
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2824390723,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "CC10-DT26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.888615,
+					1.326193
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2301738434,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "CC10-DT26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.888455,
+					1.325145
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2638394101,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.888214,
+					1.334621
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2970669686,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887627,
+					1.335914
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1010356963,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.878909,
+					1.343501
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4238584704,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.880256,
+					1.342249
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1648040496,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.862918,
+					1.351739
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3145850867,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.864934,
+					1.351439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4124137372,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.840059,
+					1.347866
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3211562175,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839088,
+					1.34898
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 301364454,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "CC17-TE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839407,
+					1.337105
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 927098629,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "CC17-TE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.840387,
+					1.33826
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1492723236,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "CC17-TE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.840465,
+					1.337832
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1286779715,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "CC17-TE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839882,
+					1.336751
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1302666081,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC19-DT9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.814977,
+					1.322535
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2294812866,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC19-DT9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.815914,
+					1.322685
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 798057293,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850474,
+					1.296046
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3531150734,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851327,
+					1.296859
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3186053260,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85025,
+					1.297014
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4155929675,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "CC2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850158,
+					1.297551
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 17309578,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "CC2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850423,
+					1.297535
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4227525565,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807965,
+					1.317494
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4157071582,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807389,
+					1.317552
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2665306214,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.795769,
+					1.311069
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2414075271,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.795754,
+					1.310711
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1897395781,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.796139,
+					1.31122
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3513977139,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.786907,
+					1.299027
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3469767120,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.787928,
+					1.300359
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 926964721,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.787565,
+					1.299715
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2369339286,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "CC23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.787785,
+					1.300075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2375677343,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.78481,
+					1.292428
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1277116252,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.784466,
+					1.294316
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 694987230,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.78449,
+					1.293985
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3952327961,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "CC24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.784535,
+					1.293219
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1184602038,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.782006,
+					1.283055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1863443409,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.79203,
+					1.276003
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3803508760,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.802356,
+					1.272107
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2579749315,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809884,
+					1.270721
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2437989744,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856306,
+					1.293371
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 586720950,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85492,
+					1.293586
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 317139250,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855855,
+					1.292904
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 366938323,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856176,
+					1.292927
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2707571444,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855568,
+					1.293129
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 636520023,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855105,
+					1.29382
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3171607701,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "CC3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855834,
+					1.292624
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2442512382,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC4-DT15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.860674,
+					1.291712
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 371391197,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC4-DT15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.860137,
+					1.293862
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 321665980,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "CC4-DT15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.860236,
+					1.294103
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2960270460,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.864152,
+					1.299661
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3320218495,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.863506,
+					1.30017
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3305734405,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876226,
+					1.30337
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2241221094,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8744,
+					1.302511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 492880627,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883248,
+					1.306046
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3751410576,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882598,
+					1.306753
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3936086977,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CC8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.889307,
+					1.308814
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1757876930,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CC8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887979,
+					1.308097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1765774844,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "CG2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989277,
+					1.356341
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1057763839,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "CG2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.987305,
+					1.35722
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1870440777,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.761923,
+					1.379008
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1424375240,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763064,
+					1.37802
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1023236267,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763179,
+					1.377863
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2835870090,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762723,
+					1.377928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 498132333,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763252,
+					1.378024
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1870440777,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.759598,
+					1.380745
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 966548394,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.761371,
+					1.378619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1870440777,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT1-BP6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762034,
+					1.378766
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3304222110,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852375,
+					1.303404
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1041116061,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.853104,
+					1.304215
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 32969516,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT16-CE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.859597,
+					1.282835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3036783021,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT16-CE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.859759,
+					1.282705
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1992020014,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT16-CE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.858732,
+					1.280967
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4255764010,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "DT16-CE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.858441,
+					1.281105
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1136655787,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "DT16-CE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.859494,
+					1.282834
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540739426,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "DT17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852428,
+					1.279796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1868107365,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852647,
+					1.279773
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4122930529,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "DT17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852478,
+					1.279528
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2580883558,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852908,
+					1.279601
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1247924583,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.853152,
+					1.279444
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3646334816,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "DT17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.853014,
+					1.279176
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 767523491,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848507,
+					1.281887
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3683841313,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848842,
+					1.282251
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 318900448,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848773,
+					1.282497
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3109409790,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764234,
+					1.369833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1312968475,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844425,
+					1.29283
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2095627800,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84417,
+					1.292406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1060138970,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849272,
+					1.297699
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2100104472,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850843,
+					1.299195
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3890648763,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84956,
+					1.298199
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3310191610,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855296,
+					1.30489
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 954256089,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855245,
+					1.305467
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1079940386,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.863074,
+					1.313853
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3863764481,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.863219,
+					1.313481
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3318117798,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871556,
+					1.321562
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 879257413,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871794,
+					1.321109
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3297948362,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882732,
+					1.327251
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1039304777,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883748,
+					1.326464
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 668498728,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898586,
+					1.329831
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1443487179,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899877,
+					1.329951
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3353538111,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.909146,
+					1.334922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1791516732,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.909405,
+					1.335311
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 259900959,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.917811,
+					1.334423
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 13417565,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.91805,
+					1.335126
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3495575934,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.919063,
+					1.334166
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3495575934,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.919134,
+					1.334372
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3621902746,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767108,
+					1.362084
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1522827097,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767688,
+					1.362474
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 147346080,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.933487,
+					1.336555
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1083904899,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.932887,
+					1.336348
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 80832410,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT31"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.938949,
+					1.344999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3810299065,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT31"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.938197,
+					1.345631
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 634139119,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.95454,
+					1.356461
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4147732909,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.955705,
+					1.355553
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2356881484,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.95517,
+					1.355588
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2542065930,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "DT33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.955717,
+					1.35697
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2287153816,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "DT34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961043,
+					1.34084
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4184374365,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961328,
+					1.341861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4184374365,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.960961,
+					1.342007
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3055133023,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961617,
+					1.341993
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 634066590,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961476,
+					1.341038
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390202391,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961943,
+					1.335322
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 585256532,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.962075,
+					1.335253
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3803031189,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.962161,
+					1.335951
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3336588754,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963101,
+					1.334835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2999231507,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.962123,
+					1.334863
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2117093009,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963049,
+					1.335019
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390202391,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961837,
+					1.335483
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3194285648,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "DT35-CG1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.962866,
+					1.334712
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 751748490,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.775451,
+					1.341582
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1300872969,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.775984,
+					1.341696
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683892491,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "DT5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.775762,
+					1.339982
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3163618906,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.78303,
+					1.335537
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1162326233,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.784562,
+					1.335976
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1642453575,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.796566,
+					1.33078
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1923141124,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.796848,
+					1.331521
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1365201703,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "DT8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807799,
+					1.325333
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2353373380,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "DT8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807801,
+					1.326146
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3239856615,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.949137,
+					1.372886
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 424364036,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.949333,
+					1.372842
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3468693076,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871587,
+					1.311782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3348613175,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871731,
+					1.31154
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4005447030,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.863043,
+					1.307169
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1068609269,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86265,
+					1.307619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 923150365,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW12-DT14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855686,
+					1.300007
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2110695292,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW12-DT14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856337,
+					1.300782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4263912799,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW12-DT14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855924,
+					1.301204
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2700862266,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW12-DT14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856891,
+					1.299079
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2558824207,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "I",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.845656,
+					1.276448
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 632145892,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846545,
+					1.276672
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1702448135,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844834,
+					1.276409
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 416735173,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846534,
+					1.276089
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3755340962,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846909,
+					1.276065
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407784323,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847096,
+					1.276259
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3632449376,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846928,
+					1.277379
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3417038657,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846953,
+					1.277785
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1611413550,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "H",
+				"station_codes": "EW15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846445,
+					1.275451
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4136330978,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.826991,
+					1.285759
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2083230401,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.827496,
+					1.286362
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3972799207,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.816994,
+					1.289371
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1519290628,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.817249,
+					1.289486
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 943693549,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806311,
+					1.29433
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2204600878,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806183,
+					1.294247
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1126077356,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805585,
+					1.295446
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1293625195,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805492,
+					1.295383
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 878322735,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94509,
+					1.353539
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2846658860,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944766,
+					1.353764
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3088032814,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944904,
+					1.353398
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 59720235,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942654,
+					1.354194
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2285359145,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943678,
+					1.354871
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2269430314,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942723,
+					1.354596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2028056360,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "EW2-DT32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942659,
+					1.355853
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1868905432,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.798058,
+					1.302753
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1473563163,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.797958,
+					1.302648
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3056143385,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.798779,
+					1.302077
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3103103454,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.79872,
+					1.302013
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3846977438,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW21-CC22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.79093,
+					1.306298
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1318810491,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW21-CC22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.790449,
+					1.307309
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2015368024,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW21-CC22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.790657,
+					1.307197
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2419818169,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW21-CC22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.790599,
+					1.306913
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4264622239,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.778305,
+					1.311415
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2113774268,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.778465,
+					1.311693
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1006292836,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764982,
+					1.315374
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4273324391,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765186,
+					1.315469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3041796065,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76557,
+					1.314078
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3913830886,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76575,
+					1.314162
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 254845459,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.733393,
+					1.341566
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3117258386,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732742,
+					1.341982
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1459669265,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73222,
+					1.342439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 943862959,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.721713,
+					1.344304
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1086952494,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.721075,
+					1.344081
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2188689837,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW26"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.720449,
+					1.343983
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1266119880,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70565,
+					1.33863
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1158378441,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "EW27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705353,
+					1.338514
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1844647370,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "EW27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705795,
+					1.338273
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3779180494,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706146,
+					1.338421
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1852692943,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705955,
+					1.338738
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3092911565,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705409,
+					1.33828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1298365279,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697155,
+					1.337345
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4065714236,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697129,
+					1.337832
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4202864986,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.678521,
+					1.327502
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 625201945,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.678644,
+					1.327956
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4294173518,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.953819,
+					1.342662
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2050515033,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.660444,
+					1.319032
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1187499610,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.659435,
+					1.318837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4142511773,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW31"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.648959,
+					1.320764
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1705154622,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW31"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649287,
+					1.321244
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4150653835,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.639284,
+					1.329872
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476412360,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.639791,
+					1.330182
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3703166182,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637246,
+					1.340427
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1254475077,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.636841,
+					1.34094
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2339405527,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW4-CG"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.945723,
+					1.327061
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3417731444,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW4-CG"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.945795,
+					1.326858
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4291734674,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.929157,
+					1.323569
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2138371505,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.929673,
+					1.324268
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 950833104,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.929404,
+					1.324075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1079663408,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.912899,
+					1.321152
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 512190611,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.912941,
+					1.320924
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4263837335,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902894,
+					1.319517
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2110478260,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902582,
+					1.319563
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 922931413,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903215,
+					1.31953
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3830388228,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW8-CC9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892788,
+					1.318216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 673410375,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW8-CC9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892217,
+					1.318347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407847430,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "EW8-CC9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.891721,
+					1.318149
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4242484801,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "EW8-CC9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892078,
+					1.316588
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1745273088,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "EW8-CC9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.893234,
+					1.318288
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2883262531,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "EW8-CC9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892609,
+					1.316738
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 609405218,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "EW9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882473,
+					1.316488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 415182369,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "EW9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882497,
+					1.316238
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 718351105,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NE1-CC29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.82158,
+					1.264972
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2013325888,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE1-CC29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.821399,
+					1.265979
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4014214661,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE1-CC29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.820468,
+					1.266013
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4014214661,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE1-CC29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.82251,
+					1.265085
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2110574983,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE1-CC29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.822532,
+					1.26526
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1234489542,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE1-CC29"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.820509,
+					1.265155
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3033560705,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.868966,
+					1.332801
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3775507203,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.868704,
+					1.331067
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1048865410,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869333,
+					1.331148
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3381943467,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871054,
+					1.339867
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3924646633,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870941,
+					1.338511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3393645514,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870508,
+					1.338583
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4000989950,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "H",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.873546,
+					1.349728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1750938775,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.873957,
+					1.349482
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 77710706,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.874322,
+					1.349902
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2603066965,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.873694,
+					1.350595
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1122792752,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871449,
+					1.350948
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3998066129,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.872867,
+					1.35079
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4022760884,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.873641,
+					1.349834
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3145937939,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NE12-CC13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.872902,
+					1.35082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2137601067,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884722,
+					1.360206
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 947686730,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885451,
+					1.360028
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4288449032,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884307,
+					1.359708
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2944261962,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.891975,
+					1.372142
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3348911112,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892446,
+					1.370209
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3468921323,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892972,
+					1.371946
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2783493,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892884,
+					1.38341
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1384704198,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.893463,
+					1.38265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3410808236,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE16-STC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895705,
+					1.392371
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2800750506,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE16-STC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895637,
+					1.391796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3135247913,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE16-STC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895406,
+					1.391829
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2666862891,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE16-STC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895209,
+					1.390882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4002776701,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE17-PTC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902306,
+					1.40534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3243163993,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE17-PTC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901799,
+					1.404438
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1461729950,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE17-PTC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902598,
+					1.405186
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2001358654,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE17-PTC"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902116,
+					1.404301
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1515056314,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE4-DT19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.843798,
+					1.283713
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 64995039,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE4-DT19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.843476,
+					1.285406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2519121784,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE4-DT19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.842813,
+					1.284675
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2900855870,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NE4-DT19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844428,
+					1.285044
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3904921340,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "NE4-DT19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844459,
+					1.284736
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 654822813,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NE4-DT19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.845463,
+					1.284275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346216632,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.845903,
+					1.287806
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1806328605,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "NE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846594,
+					1.289199
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3657422233,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846666,
+					1.289384
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2790090300,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84713,
+					1.289406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2008639963,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846065,
+					1.286899
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 157546335,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847033,
+					1.289
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 694949586,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE7-DT12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84936,
+					1.305605
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 756107472,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE7-DT12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849705,
+					1.306352
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3329446614,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NE7-DT12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850322,
+					1.307426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 713801681,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE7-DT12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848985,
+					1.306564
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3348298709,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NE7-DT12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848304,
+					1.307684
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1952639703,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE7-DT12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849,
+					1.306855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 152795240,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852975,
+					1.312454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2366000911,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.853267,
+					1.311911
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3045164365,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.854773,
+					1.312327
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2382847115,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855501,
+					1.312259
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1670223429,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "I",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855807,
+					1.311766
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3055975396,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "H",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856099,
+					1.311884
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3521786286,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.854764,
+					1.313544
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3062010569,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852651,
+					1.311884
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3538632490,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.853199,
+					1.311422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1128298172,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.860707,
+					1.317915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3856360574,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.861502,
+					1.320107
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1481686749,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NE9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.861904,
+					1.319235
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 581822751,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS1-EW24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742762,
+					1.332749
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1135210589,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS1-EW24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74176,
+					1.33399
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699487038,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS1-EW24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74264,
+					1.332526
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 868650232,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS1-EW24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742298,
+					1.333581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2355942693,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.800533,
+					1.440152
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3495154147,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.801365,
+					1.440533
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518148036,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.800542,
+					1.440596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2487479302,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS10"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80099,
+					1.440346
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4220453842,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.82011,
+					1.448837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1767517681,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81979,
+					1.448768
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 732908599,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.820402,
+					1.448927
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1644193552,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.819759,
+					1.449157
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 462497210,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.829255,
+					1.443511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4159825855,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.829528,
+					1.44363
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 776509885,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8297,
+					1.442804
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1144994236,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.829962,
+					1.442935
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1921967291,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NS12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.830116,
+					1.443256
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1194627271,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.835091,
+					1.429117
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4065736005,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.834784,
+					1.429397
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 111233088,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.834863,
+					1.429107
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1807094726,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.834866,
+					1.429636
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2020614721,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NS13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.835644,
+					1.429666
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1061348586,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832887,
+					1.417545
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3932470120,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832922,
+					1.417058
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1673824299,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832707,
+					1.417143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3969617581,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833231,
+					1.417869
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3859405973,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844646,
+					1.381954
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3157826327,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844834,
+					1.381644
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1006494804,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844947,
+					1.381548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 137602576,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849343,
+					1.369441
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1404744145,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849596,
+					1.369685
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3721280658,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849939,
+					1.369465
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1069595479,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849825,
+					1.369882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 134916687,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS17-CC15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850201,
+					1.351053
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4079932234,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS17-CC15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848305,
+					1.35058
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1821290953,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS17-CC15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848312,
+					1.351064
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2044298318,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NS17-CC15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848433,
+					1.351035
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1208823496,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS17-CC15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.848209,
+					1.350585
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3424110467,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847441,
+					1.340672
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2436552514,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846406,
+					1.340744
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1797956865,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84643,
+					1.341069
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1609519907,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847578,
+					1.332316
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1597678594,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84732,
+					1.332994
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3063907557,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846517,
+					1.333279
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2140664640,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847724,
+					1.332376
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3032679300,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.749937,
+					1.34939
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 223251045,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.749767,
+					1.34952
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4261234882,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.749118,
+					1.348405
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3812736807,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.749974,
+					1.349561
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1779276747,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84334,
+					1.319896
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3971288776,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844389,
+					1.321095
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4077032796,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS21-DT11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.837881,
+					1.312598
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1813926623,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS21-DT11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838219,
+					1.312075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1201450718,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS21-DT11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838242,
+					1.313617
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1953993937,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838399,
+					1.300028
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1697281298,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838459,
+					1.300767
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 571308243,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838766,
+					1.300436
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3221639700,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS23"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839734,
+					1.300241
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1184820032,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS24-NE6-CC1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844748,
+					1.299649
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2197470978,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS24-NE6-CC1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846788,
+					1.298445
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4044760737,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS24-NE6-CC1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84523,
+					1.299056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4123913606,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NS24-NE6-CC1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.845372,
+					1.299748
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1676236069,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NS24-NE6-CC1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.845842,
+					1.299635
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3318852583,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS24-NE6-CC1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84503,
+					1.299931
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201040891,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS25-EW13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85302,
+					1.293227
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4014329304,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS25-EW13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85196,
+					1.2931
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2476304185,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS25-EW13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85298,
+					1.293042
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1806502174,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS25-EW13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851802,
+					1.293455
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1160010542,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "H",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851622,
+					1.285258
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1828688515,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851523,
+					1.283212
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2354835428,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85148,
+					1.284607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2258969921,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "G",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851478,
+					1.285017
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580285703,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851438,
+					1.284125
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2010135458,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851353,
+					1.283641
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1010567109,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851563,
+					1.283631
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2753113324,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "J",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851296,
+					1.282626
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3603238240,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "F",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850961,
+					1.282539
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 978563599,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "I",
+				"station_codes": "NS26-EW14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851433,
+					1.282382
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 332891670,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86233,
+					1.27053
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 677641525,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS28"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86358,
+					1.271438
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 824884955,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.751727,
+					1.359065
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2753706969,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.752076,
+					1.35907
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4075835804,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.751951,
+					1.359298
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1191286682,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.752093,
+					1.358695
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3351362600,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.744224,
+					1.385705
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2806410639,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.744518,
+					1.385736
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1129258317,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.744557,
+					1.385431
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1099997807,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.744595,
+					1.38498
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1129258317,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74456,
+					1.3854
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3149614318,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74447,
+					1.3846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2806410639,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74447,
+					1.38573
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3351362600,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74411,
+					1.38537
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2217743816,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "E",
+				"station_codes": "NS4-BP1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74462,
+					1.385
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2173689417,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74733,
+					1.398068
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1111691498,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.747195,
+					1.397655
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1724861352,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.747432,
+					1.397001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1183552527,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.747111,
+					1.397273
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4231306245,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762497,
+					1.425125
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1541538306,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.761755,
+					1.425126
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2078254595,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.761941,
+					1.424853
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4269918208,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762019,
+					1.424739
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 996102462,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "NS8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.774411,
+					1.432751
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4100489720,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "D",
+				"station_codes": "NS8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.773997,
+					1.432751
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 946383839,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "C",
+				"station_codes": "NS8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.77382,
+					1.43247
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3366664221,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "NS8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.77421,
+					1.432802
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2016831334,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.788964,
+					1.435844
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1174768036,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "7",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.787977,
+					1.434496
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2707188225,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.786508,
+					1.436673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2409925664,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.787108,
+					1.437243
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1982941255,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.788005,
+					1.43754
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3251988962,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.785736,
+					1.436697
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1472030597,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "6",
+				"station_codes": "NS9-TE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.789089,
+					1.434815
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275026379,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.905929,
+					1.399124
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548207496,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906176,
+					1.399303
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4029024997,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908966,
+					1.396681
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2626254182,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908869,
+					1.397122
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2699937543,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.912709,
+					1.393971
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3378395908,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.912652,
+					1.393685
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 625211941,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.915935,
+					1.394559
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1606044742,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.916263,
+					1.394326
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1456828965,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.916387,
+					1.399809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3634658086,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.916517,
+					1.399411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470098643,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.912646,
+					1.402507
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 899817072,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.912755,
+					1.402104
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500473044,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PE7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908792,
+					1.405285
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 925730935,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PE7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908614,
+					1.405046
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1422653280,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.905039,
+					1.409703
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 662471619,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.904792,
+					1.409828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3648318209,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906782,
+					1.412876
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271832578,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906511,
+					1.412929
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3570596435,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906693,
+					1.416664
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3760684720,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906818,
+					1.416915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1453777740,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901912,
+					1.415865
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3448337679,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902362,
+					1.415906
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3100600887,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900074,
+					1.411773
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 103670388,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900532,
+					1.41191
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3101085047,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898336,
+					1.408368
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 104012852,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898757,
+					1.408488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2584664222,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "PW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89703,
+					1.405015
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3950744669,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "PW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897409,
+					1.405245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3227930266,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900616,
+					1.394328
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1518632057,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900707,
+					1.394534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3327568596,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906019,
+					1.39134
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180994263,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SE2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906106,
+					1.391414
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 467295432,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.905446,
+					1.388185
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 892540523,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.905482,
+					1.387841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3597607599,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902148,
+					1.384075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 826468684,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902276,
+					1.383765
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 480611541,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897322,
+					1.384176
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 839821206,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897224,
+					1.384105
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 16414043,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.893685,
+					1.396373
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 261470264,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89392,
+					1.396187
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 400911459,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.889407,
+					1.3972
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3931314688,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.889115,
+					1.397133
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3101080434,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.881139,
+					1.398284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 104010289,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.881138,
+					1.398159
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 345899979,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.875566,
+					1.397198
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 889554184,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.875687,
+					1.397192
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2841409141,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876262,
+					1.392158
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 468705875,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88016,
+					1.392026
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 896048112,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.880143,
+					1.392145
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1608315206,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.886084,
+					1.389379
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1249105157,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885962,
+					1.38918
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3535861217,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "A",
+				"station_codes": "SW8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.890409,
+					1.386698
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3421396098,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "B",
+				"station_codes": "SW8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.890438,
+					1.386814
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2719221869,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.785429,
+					1.447937
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3194631694,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.785102,
+					1.449047
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1449075656,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.861504,
+					1.273575
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1280055051,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.861777,
+					1.27386
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 705631818,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.862894,
+					1.273135
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4131595149,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.862669,
+					1.275511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1574401143,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.793027,
+					1.427302
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1004166036,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.793414,
+					1.427605
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3987283765,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.79456,
+					1.427427
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 244400466,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.794424,
+					1.426684
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 870532339,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "TE3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.794365,
+					1.425843
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2405222713,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.818391,
+					1.397821
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2761037624,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.818082,
+					1.397684
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2987405114,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.818003,
+					1.398787
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1109633256,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.835823,
+					1.385891
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1563030763,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83536,
+					1.38541
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2620280425,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.837398,
+					1.384602
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3297984366,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.837339,
+					1.383628
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3518489327,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "TE5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83684,
+					1.384162
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2956165975,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.837461,
+					1.373532
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1331000310,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.837032,
+					1.37372
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3554623893,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.836717,
+					1.372704
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2015683283,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "7",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.836285,
+					1.371377
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 850628784,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.836796,
+					1.371276
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2614141201,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83676,
+					1.370777
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390517618,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "6",
+				"station_codes": "TE6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.836309,
+					1.370896
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 877616166,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833635,
+					1.364037
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3828458373,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833511,
+					1.363283
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1332905667,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831954,
+					1.363164
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4142040932,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832376,
+					1.362184
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 897660296,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831833,
+					1.355737
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3507850027,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831916,
+					1.354834
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2254047407,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "TE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832635,
+					1.354418
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2210684521,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833925,
+					1.354145
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3787612878,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833794,
+					1.353503
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2022256856,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "DT10-TE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.82591,
+					1.319951
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2992773018,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "DT10-TE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.825057,
+					1.319544
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 328082557,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "DT10-TE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.825833,
+					1.321389
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3651051612,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "DT10-TE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.826278,
+					1.320951
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3964771259,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "DT10-TE11"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.825924,
+					1.318653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 632150248,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839547,
+					1.278996
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3428197038,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839802,
+					1.280659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 174841349,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "8",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838082,
+					1.282303
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 456249642,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "7",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838806,
+					1.280793
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 36006793,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.840311,
+					1.280337
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2528736847,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83923,
+					1.281509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3604097644,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.839142,
+					1.281369
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3851756747,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "6",
+				"station_codes": "EW16-NE3-TE17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.838415,
+					1.278809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3453034647,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832763,
+					1.304031
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 696032081,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83198,
+					1.30398
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1924270293,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832608,
+					1.304761
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1989295030,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832533,
+					1.304278
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2224796435,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "7",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832211,
+					1.303146
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3527259760,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831983,
+					1.304221
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 761056818,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "6",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.832069,
+					1.303661
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 52456838,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "13",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83212,
+					1.302326
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1840319687,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "12",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.830577,
+					1.302908
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4180545028,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "11",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.830626,
+					1.304138
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1673440581,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "10",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831119,
+					1.304042
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3568822749,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "9",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831481,
+					1.303674
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2105083132,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "8",
+				"station_codes": "NS22-TE14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831688,
+					1.303522
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3118081302,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "NS27-CE2-TE20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85456,
+					1.277002
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2575411285,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "NS27-CE2-TE20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.854936,
+					1.275987
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 86523028,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "NS27-CE2-TE20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855184,
+					1.275146
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 961642451,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "NS27-CE2-TE20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856265,
+					1.273767
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2767721490,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "NS27-CE2-TE20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85439,
+					1.274915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2827788917,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.819368,
+					1.306991
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3321881590,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE12"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.819374,
+					1.306334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3312066309,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.823681,
+					1.303607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3371652326,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.824038,
+					1.302478
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1473695155,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833906,
+					1.293329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 284968982,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE15"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833037,
+					1.295952
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2818158821,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833831,
+					1.286735
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4061337702,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833482,
+					1.28702
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3199909863,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.83334,
+					1.288805
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 461178720,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833976,
+					1.290173
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3894718177,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "TE16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.833606,
+					1.289693
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4203905298,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.844233,
+					1.28101
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4121654129,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.84482,
+					1.280825
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1290221648,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE18"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.842843,
+					1.280133
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 791753022,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851869,
+					1.277468
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2082088029,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850933,
+					1.277023
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3113361338,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "5",
+				"station_codes": "TE19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851976,
+					1.277025
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 108729049,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "6",
+				"station_codes": "TE19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.849852,
+					1.277889
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4084337148,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850099,
+					1.277639
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1111112219,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "4",
+				"station_codes": "TE19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.851002,
+					1.277645
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3253088582,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "3",
+				"station_codes": "TE22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.867088,
+					1.278197
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3862920071,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "2",
+				"station_codes": "TE22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.868466,
+					1.279589
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 428088004,
+			"properties": {
+				"stop_type": "entrance",
+				"network": "entrance",
+				"name": "1",
+				"station_codes": "TE22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.868901,
+					1.280586
+				]
+			}
+		}
+	]
+}
