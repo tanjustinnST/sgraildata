@@ -1,0 +1,1317 @@
+[
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ESPLANADE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PAYA LEBAR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "DHOBY GHAUT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "DAKOTA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LAVENDER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "RENJONG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "DOVER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HOUGANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "PHOENIX LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ALJUNIED MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "COVE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PASIR RIS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ADMIRALTY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KEMBANGAN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "PUNGGOL POINT LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARSILING MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "COMPASSVALE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KHATIB MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "LAYAR LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAMPINES WEST MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAMPINES MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAMPINES EAST MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAI SENG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAI SENG FACILITY BUILDING"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SUMANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SUB STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "STEVENS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "STADIUM MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SIXTH AVENUE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SOUTH VIEW LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SOO TECK LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SOMERSET MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SIMEI MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SERANGOON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SERANGOON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SENGKANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BRADDELL MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "NOVENA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "FARRER PARK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BEDOK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "REDHILL MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CHANGI AIRPORT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "CORAL EDGE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CLEMENTI MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUKIT BATOK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "OASIS LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "NIBONG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "MERIDIAN LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUKIT GOMBAK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "EUNOS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CHINESE GARDEN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "KADALOOR LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "CHENG LIM LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SAM KEE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KRANJI MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ANG MO KIO MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "RIVIERA LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "BUKIT PANJANG LRT DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "BANGKIT LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PASIR PANJANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HOLLAND VILLAGE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LABRADOR PARK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BOTANIC GARDENS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ONE-NORTH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KENT RIDGE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HAW PAR VILLA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARINA BAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KING ALBERT PARK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LITTLE INDIA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ROCHOR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SENJA LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MOUNTBATTEN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ULU PANDAN DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CHOA CHU KANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BOON KENG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BARTLEY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SEGAR LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "GALI BATU DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HILLVIEW MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BEAUTY WORLD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HUME MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUKIT PANJANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CASHEW MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "JOO KOON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "YEW TEE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "YISHUN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "YIO CHU KANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "WOODLEIGH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "WOODLANDS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "UPPER CHANGI MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TELOK AYER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "TONGKANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "UBI MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TOA PAYOH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TIONG BAHRU MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "THANGGAM LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PROMENADE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BRAS BASAH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "NICOLL HIGHWAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "POTONG PASIR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LAKESIDE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SAMUDERA LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "RANGGUNG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SEMBAWANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "PUNGGOL LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "KANGKAR LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PAYA LEBAR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PIONEER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUGIS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "NEWTON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SENGKANG LRT DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUONA VISTA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "OUTRAM PARK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARINA BAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "DHOBY GHAUT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CHINATOWN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "EXPO MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "RAFFLES PLACE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KIM CHUAN DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TUAS CRESCENT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TUAS LINK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TUAS WEST ROAD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LITTLE INDIA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BOTANIC GARDENS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PROMENADE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CITY HALL MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "OUTRAM PARK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BISHAN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SENGKANG MRT DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "EXPO MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "FERNVALE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CHANGI DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "PUNGGOL MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUANGKOK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "BAKAU LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "FARMWAY LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "COMMONWEALTH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "KUPANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "DAMAI LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "QUEENSTOWN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KALLANG MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "RUMBIA LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "PETIR LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BISHAN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BOON LAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "KEAT HONG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "JELAPANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "CHOA CHU KANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "SENGKANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HARBOURFRONT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "PENDING LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CLARKE QUAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BISHAN DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "BUKIT PANJANG LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "FAJAR LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KOVAN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LORONG CHUAN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARYMOUNT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HARBOURFRONT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUONA VISTA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CALDECOTT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUGIS MRT STATION"
+  },
+  { "TYP_CD": 0, "STN_NAM": "", "TYP_CD_DES": "MRT", "STN_NAM_DE": "BOCC" },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "NEWTON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HALIFAX SUB STATION CABLE TROUGH"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CHINATOWN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "DOWNTOWN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "GEYLANG BAHRU MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BENDEMEER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BENCOOLEN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "FORT CANNING MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "KAKI BUKIT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAMPINES MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "JALAN BESAR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MATTAR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MACPHERSON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BAYFRONT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "DHOBY GHAUT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "FARRER ROAD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "JURONG EAST MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BEDOK NORTH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BEDOK RESERVOIR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ORCHARD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BUKIT BROWN MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "LENTOR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "BRIGHT HILL MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SPRINGLEAF MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARINA SOUTH PIER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MACPHERSON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CANBERRA MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "WOODLANDS SOUTH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "WOODLANDS NORTH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "GUL CIRCLE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TUAS DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TUNNEL STRUCTURE CONNECTING DEPOT TO FACILITY BUILDING"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "WOODLANDS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MANDAI DEPOT"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARINA BAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "OUTRAM PARK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "HAVELOCK MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "STEVENS MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "NAPIER MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MOUNT PLEASANT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "SHENTON WAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARINA SOUTH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "GARDENS BY THE BAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "GREAT WORLD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MAXWELL MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MARINA BAY MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ORCHARD BOULEVARD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "ORCHARD MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TELOK BLANGAH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "TECK WHYE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "LRT",
+    "STN_NAM_DE": "TECK LEE LRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TANJONG PAGAR MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TANAH MERAH MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "TAN KAH KEE MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "UPPER THOMSON MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "CALDECOTT MRT STATION"
+  },
+  {
+    "TYP_CD": 0,
+    "STN_NAM": "",
+    "TYP_CD_DES": "MRT",
+    "STN_NAM_DE": "MAYFLOWER MRT STATION"
+  }
+]

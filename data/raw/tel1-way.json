@@ -1,10 +1,21 @@
 {
 	"version": "0.6",
-	"generator": "CGImap 0.8.8 (2833739 spike-06.openstreetmap.org)",
+	"generator": "CGImap 0.8.10 (1610929 spike-08.openstreetmap.org)",
 	"copyright": "OpenStreetMap and contributors",
 	"attribution": "http://www.openstreetmap.org/copyright",
 	"license": "http://opendatacommons.org/licenses/odbl/1-0/",
 	"elements": [
+		{
+			"type": "node",
+			"id": 4606486857,
+			"lat": 1.428882,
+			"lon": 103.7898679,
+			"timestamp": "2023-02-12T12:26:40Z",
+			"version": 4,
+			"changeset": 132443099,
+			"user": "Mith252",
+			"uid": 3767835
+		},
 		{
 			"type": "node",
 			"id": 6170309591,
@@ -451,11 +462,11 @@
 		{
 			"type": "way",
 			"id": 768424508,
-			"timestamp": "2022-10-08T04:17:49Z",
-			"version": 12,
-			"changeset": 127181445,
-			"user": "coshatiuav",
-			"uid": 8748137,
+			"timestamp": "2023-05-09T03:05:55Z",
+			"version": 15,
+			"changeset": 135875176,
+			"user": "leheng",
+			"uid": 15587724,
 			"nodes": [
 				7174110067,
 				7174125090,
@@ -487,6 +498,7 @@
 				7174211465,
 				7174211466,
 				7174211467,
+				4606486857,
 				7174211468,
 				7174211469,
 				7257704661,
@@ -496,12 +508,15 @@
 				7174211471
 			],
 			"tags": {
+				"colour": "#9E652E",
 				"electrified": "rail",
 				"frequency": "0",
 				"gauge": "1435",
 				"layer": "-1",
-				"name": "MRT Thomson–East Coast Line",
+				"name": "Thomson–East Coast Line",
+				"name:en": "Thomson-East Coast Line (TE)",
 				"name:zh": "汤申－东海岸线",
+				"note": "colour on wikipedia seems to be #9D5B25 though",
 				"railway": "subway",
 				"ref": "TEL",
 				"tunnel": "yes",
