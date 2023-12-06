@@ -1,30 +1,30 @@
-const { readFile, writeFile } = require('../utils');
+const { readFile, writeFile } = require("../utils");
 const {
   point,
   lineString,
   multiLineString,
   featureCollection,
   feature,
-} = require('@turf/helpers');
-const truncate = require('@turf/truncate').default;
-const centerOfMass = require('@turf/center-of-mass').default;
-const nearestPoint = require('@turf/nearest-point').default;
-const { rewind, simplify } = require('@turf/turf');
-const namer = require('color-namer');
-const { chaikin } = require('chaikin');
+} = require("@turf/helpers");
+const truncate = require("@turf/truncate").default;
+const centerOfMass = require("@turf/center-of-mass").default;
+const nearestPoint = require("@turf/nearest-point").default;
+const { rewind, simplify } = require("@turf/turf");
+const namer = require("color-namer");
+const { chaikin } = require("chaikin");
 
-const routesData = readFile('./data/raw/routes.citymapper.json');
-const codesData = readFile('./data/raw/MRTLRTStnPtt.json');
-const wikipediaMRTData = readFile('./data/raw/wikipedia-mrt.json');
-const wikipediaLRTData = readFile('./data/raw/wikipedia-lrt.json');
+const routesData = readFile("./data/raw/routes.citymapper.json");
+const codesData = readFile("./data/raw/MRTLRTStnPtt.json");
+const wikipediaMRTData = readFile("./data/raw/wikipedia-mrt.json");
+const wikipediaLRTData = readFile("./data/raw/wikipedia-lrt.json");
 const stationData = readFile(
-  './data/raw/master-plan-2019-rail-station-layer-geojson.geojson',
+  "./data/raw/master-plan-2019-rail-station-layer-geojson.geojson"
 );
-const exitsData = readFile('./data/raw/Train_Station_Exit_Layer.json');
-const telExitsData = readFile('./data/raw/tel-exits.citymapper.json');
-const telLine = readFile('./data/raw/tel-line.json');
-const peLine = readFile('./data/raw/punggol-lrt-east-loop.json');
-const dtlLine = readFile('./data/raw/dtl-way.json');
+const exitsData = readFile("./data/raw/Train_Station_Exit_Layer.json");
+const telExitsData = readFile("./data/raw/tel-exits.citymapper.json");
+const telLine = readFile("./data/raw/tel-line.json");
+const peLine = readFile("./data/raw/punggol-lrt-east-loop.json");
+const dtlLine = readFile("./data/raw/dtl-way.json");
 
 // https://github.com/darkskyapp/string-hash/
 function hash(str) {
@@ -36,8 +36,8 @@ function hash(str) {
 
 function brand2Network(brand) {
   return {
-    SingaporeMRT: 'singapore-mrt',
-    SingaporeLRT: 'singapore-lrt',
+    SingaporeMRT: "singapore-mrt",
+    SingaporeLRT: "singapore-lrt",
   }[brand];
 }
 
@@ -45,7 +45,7 @@ function color2Name(color) {
   return namer(color).html[0].name;
 }
 
-const codesOrder = ['NS', 'EW', 'NE', 'CC', 'DT'];
+const codesOrder = ["NS", "EW", "NE", "CC", "DT"];
 function sortStationCodes(a, b) {
   const aCode = a.match(/[a-z]+/i)[0];
   const bCode = b.match(/[a-z]+/i)[0];
@@ -57,8 +57,8 @@ function sortStationCodes(a, b) {
 }
 function stationName2Codes(name) {
   const cleanName = name
-    .replace(/(l|m)rt/i, '')
-    .replace(/stat?ion/i, '')
+    .replace(/(l|m)rt/i, "")
+    .replace(/stat?ion/i, "")
     .trim();
 
   let codes = [];
@@ -68,22 +68,22 @@ function stationName2Codes(name) {
   } else {
     const found = codesData.filter((d) => {
       const stnName = d.STN_NAME.trim()
-        .replace(/\s*(m|l)rt\s+station.*$/i, '')
+        .replace(/\s*(m|l)rt\s+station.*$/i, "")
         .toLowerCase();
       const lowerCleanName = cleanName.toLowerCase();
       return (
         lowerCleanName === stnName ||
-        lowerCleanName.replace(/road/i, '').trim() ===
-          stnName.replace(/road/i, '').trim() // special case for Tuas West Road
+        lowerCleanName.replace(/road/i, "").trim() ===
+          stnName.replace(/road/i, "").trim() // special case for Tuas West Road
       );
     });
 
     if (found.length) {
       if (found.length === 1) {
-        codes = found[0].STN_NO.split('/').map((s) => s.trim());
+        codes = found[0].STN_NO.split("/").map((s) => s.trim());
       } else {
         codes = found
-          .map((f) => f.STN_NO.split('/').map((s) => s.trim()))
+          .map((f) => f.STN_NO.split("/").map((s) => s.trim()))
           .flat() // Flatten
           .filter((item, index, arr) => arr.indexOf(item) === index); // Remove dups
       }
@@ -92,7 +92,8 @@ function stationName2Codes(name) {
 
   codes.sort(sortStationCodes);
   if (!codes.length) {
-    console.warn('NO CODES', name);
+    console.warn("NO CODES", name, "... using preset");
+    if (name == "MARINA SOUTH MRT STATION") return ["TE21"];
   }
   return codes;
 }
@@ -113,36 +114,36 @@ function stationName2Wikipedia(name) {
 }
 
 const colorMap = {
-  NE: 'purple',
-  DT: 'blue',
-  NS: 'red',
-  CC: 'yellow',
-  CE: 'yellow',
-  EW: 'green',
-  CG: 'green',
-  TE: 'brown',
-  BP: 'gray',
-  SE: 'gray',
-  SW: 'gray',
-  PE: 'gray',
-  PW: 'gray',
-  PTC: 'gray',
-  STC: 'gray',
+  NE: "purple",
+  DT: "blue",
+  NS: "red",
+  CC: "yellow",
+  CE: "yellow",
+  EW: "green",
+  CG: "green",
+  TE: "brown",
+  BP: "gray",
+  SE: "gray",
+  SW: "gray",
+  PE: "gray",
+  PW: "gray",
+  PTC: "gray",
+  STC: "gray",
 };
 const code2Color = (code) =>
-  colorMap[code.match(/[a-z]+/i)[0].toUpperCase()] || 'gray';
+  colorMap[code.match(/[a-z]+/i)[0].toUpperCase()] || "gray";
 const validCodes = Object.keys(colorMap);
 
 const filterInvalidCodes = (codes) => {
   return codes.filter((c) =>
-    validCodes.includes(c.toUpperCase().replace(/\d+$/, '')),
+    validCodes.includes(c.toUpperCase().replace(/\d+$/, ""))
   );
 };
 
 const { stops, routes } = routesData;
 
 // STATIONS
-console.log('Generate Stations...');
+console.log("Generate Stations...");
 const stationCodes = [];
 const stations = Object.values(stops)
   .map((s) => {
@@ -155,32 +156,32 @@ const stations = Object.values(stops)
     const { codes: _codes, title, name_zh_Hans, name_ta, url } = wikipedia;
     const codes = filterInvalidCodes(_codes).sort(sortStationCodes);
 
-    const joinedCodes = codes.join('-');
+    const joinedCodes = codes.join("-");
     stationCodes.push(joinedCodes);
 
     const p = point(
       coords.reverse(),
       {
         name,
-        'name_zh-Hans': name_zh_Hans,
+        "name_zh-Hans": name_zh_Hans,
         name_ta,
-        network: brands.map(brand2Network).join('.'),
+        network: brands.map(brand2Network).join("."),
         // Custom
         network_count: codes.length,
         station_codes: joinedCodes,
         station_colors: codes
-          .map((c) => c.replace(/\d+$/, ''))
+          .map((c) => c.replace(/\d+$/, ""))
           .map(code2Color)
-          .join('-'),
+          .join("-"),
         wikipedia: `en:${title}`, // https://wiki.openstreetmap.org/wiki/Key:wikipedia
-        wikipedia_slug: url.replace(/^.*\/wiki\//i, ''),
+        wikipedia_slug: url.replace(/^.*\/wiki\//i, ""),
         // Follow Mapbox
-        stop_type: 'station',
-        mode: 'metro_rail',
+        stop_type: "station",
+        mode: "metro_rail",
       },
       {
         id: hash(joinedCodes),
-      },
+      }
     );
     return p;
   })
@@ -189,7 +190,7 @@ const stations = Object.values(stops)
 stationCodes.sort((a, b) => a.localeCompare(b));
 
 // LINES
-console.log('Generate Lines...');
+console.log("Generate Lines...");
 const lines = routes
   .map((r) => {
     const { live_line_code, color, brand, long_name, patterns } = r;
@@ -198,7 +199,7 @@ const lines = routes
     patterns.sort((a, b) => b.stop_points.length - a.stop_points.length);
     const diffPatterns = [patterns[0]];
     const diffStopPoints = patterns[0].stop_points.map((p) =>
-      p.id.toLowerCase(),
+      p.id.toLowerCase()
     );
 
     for (let i = 1, l = patterns.length; i < l; i++) {
@@ -214,7 +215,7 @@ const lines = routes
           sp1.join().includes(sp2.reverse().join()) ||
           (diffStopPoints.includes(p2.stop_points[0].id.toLowerCase()) &&
             diffStopPoints.includes(
-              p2.stop_points[p2.stop_points.length - 1].id.toLowerCase(),
+              p2.stop_points[p2.stop_points.length - 1].id.toLowerCase()
             ))
         ) {
           // console.log(p1.name, p2.name);
@@ -267,7 +268,7 @@ const lines = routes
       line_color: color2Name(color),
       network: brand2Network(brand),
       // Follow Mapbox
-      mode: 'metro_rail',
+      mode: "metro_rail",
     };
     const opts = {
       id: hash(live_line_code),
@@ -281,12 +282,12 @@ const lines = routes
       l = multiLineString(
         lines.map((l) => chaikin(l, 3)),
         props,
-        opts,
+        opts
       );
     }
     return truncate(
       simplify(l, { tolerance: 0.000005, highQuality: true, mutate: true }),
-      { mutate: true },
+      { mutate: true }
     );
   })
   .sort((a, b) => a.properties.name.localeCompare(b.properties.name));
@@ -294,7 +295,7 @@ const lines = routes
 // console.log({ lines: lines.map((l) => l.properties) });
 
 // EXITS
-console.log('Generate Exits...');
+console.log("Generate Exits...");
 const tel3Stations =
   /^(stevens|napier|orchard|great world|havelock|outram park|maxwell|shenton way|marina bay|gardens by the bay)/i;
 const exitsList = exitsData.features
@@ -303,22 +304,22 @@ const exitsList = exitsData.features
       properties: { stn_name, exit_code: _exit_code },
       geometry,
     } = f;
-    const exit_code = _exit_code.replace(/exit\s+?/i, '').toUpperCase();
+    const exit_code = _exit_code.replace(/exit\s+?/i, "").toUpperCase();
     if (/^null/i.test(exit_code)) return;
     if (tel3Stations.test(stn_name)) return; // Skip TEL3 stations. Exits have become 123 instead of ABC
 
     let codes = stationName2Codes(stn_name);
 
-    if (codes.includes('NS9') && /[a-z]/i.test(exit_code)) {
+    if (codes.includes("NS9") && /[a-z]/i.test(exit_code)) {
       // Deprecated in favor of 123s https://landtransportguru.net/woodlands-station/
       return;
     }
 
-    const joinedCodes = codes.join('-');
+    const joinedCodes = codes.join("-");
 
     const props = {
-      stop_type: 'entrance',
-      network: 'entrance',
+      stop_type: "entrance",
+      network: "entrance",
       name: exit_code,
       // Custom
       station_codes: joinedCodes,
@@ -334,7 +335,7 @@ const exitsList = exitsData.features
   })
   .filter(Boolean)
   .sort((a, b) =>
-    a.properties.station_codes.localeCompare(b.properties.station_codes),
+    a.properties.station_codes.localeCompare(b.properties.station_codes)
   );
 
 const telExitsList = Object.entries(telExitsData)
@@ -345,17 +346,17 @@ const telExitsList = Object.entries(telExitsData)
       const { indicator, coords } = exit;
       const exit_code = indicator;
       const geometry = {
-        type: 'Point',
+        type: "Point",
         coordinates: coords.reverse(),
       };
 
       let codes = stationName2Codes(stn_name);
 
-      const joinedCodes = codes.join('-');
+      const joinedCodes = codes.join("-");
 
       const props = {
-        stop_type: 'entrance',
-        network: 'entrance',
+        stop_type: "entrance",
+        network: "entrance",
         name: exit_code.toUpperCase(),
         // Custom
         station_codes: joinedCodes,
@@ -373,12 +374,12 @@ const telExitsList = Object.entries(telExitsData)
   .filter(Boolean)
   .flat()
   .sort((a, b) =>
-    a.properties.station_codes.localeCompare(b.properties.station_codes),
+    a.properties.station_codes.localeCompare(b.properties.station_codes)
   );
 const exits = [...exitsList, ...telExitsList];
 
 // STATION BUILDINGS
-console.log('Generate Station Buildings...');
+console.log("Generate Station Buildings...");
 const exitsCollection = featureCollection(exits);
 const stationsCollection = featureCollection(stations);
 const buildings = stationData.features
@@ -406,25 +407,25 @@ const buildings = stationData.features
     }
 
     if (!nearestStation) return null;
-    if (nearestStation.properties.station_codes === 'NS28') {
+    if (nearestStation.properties.station_codes === "NS28") {
       // Exclude Marina South station
       return null;
     }
 
     const name = Description.match(
-      /(NAME|INC_CRC)<\/th>\s+<td>([^<>]*)<\/td/i,
+      /(NAME|INC_CRC)<\/th>\s+<td>([^<>]*)<\/td/i
     )[2].toLowerCase();
     // console.log({ name, distanceToPoint });
 
     const groundLevel = Description.match(
-      />((under|above)ground)</i,
+      />((under|above)ground)</i
     )[1].toLowerCase();
-    const isAboveGround = groundLevel === 'aboveground';
+    const isAboveGround = groundLevel === "aboveground";
 
     const props = {
       station_codes: nearestStation.properties.station_codes,
       underground: !isAboveGround,
-      type: 'subway',
+      type: "subway",
     };
     const opts = {
       id: hash(name),
@@ -438,16 +439,21 @@ const buildings = stationData.features
   })
   .filter(Boolean)
   .sort((a, b) =>
-    a.properties.station_codes.localeCompare(b.properties.station_codes),
+    a.properties.station_codes.localeCompare(b.properties.station_codes)
   );
 
-const geoJSON = featureCollection([
-  ...stations,
-  ...exits,
-  ...lines,
-  ...buildings,
-]);
+// const geoJSON = featureCollection([
+//   ...stations,
+//   ...exits,
+//   ...lines,
+//   ...buildings,
+// ]);
 
-writeFile('data/v1/sg-rail.geojson', geoJSON);
-console.log('Stations count', stationCodes.length);
-writeFile('data/raw/sg-station-codes.txt', stationCodes.join(' '));
+// Split according to feature types as ArcGIS cannot support geoJSON of mixed geometry types
+// https://community.esri.com/t5/arcgis-online-questions/feature-layers-with-multiple-geometry-types/td-p/1258328
+writeFile("data/v1/sg-stations.geojson", featureCollection(stations));
+writeFile("data/v1/sg-exits.geojson", featureCollection(exits));
+writeFile("data/v1/sg-lines.geojson", featureCollection(lines));
+writeFile("data/v1/sg-buildings.geojson", featureCollection(buildings));
+console.log("Stations count", stationCodes.length);
+writeFile("data/raw/sg-station-codes.txt", stationCodes.join(" "));
