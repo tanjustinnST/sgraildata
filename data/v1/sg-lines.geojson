@@ -3,12 +3,10 @@
 	"features": [
 		{
 			"type": "Feature",
-			"id": 2725701479,
 			"properties": {
 				"name": "Bukit Panjang LRT",
 				"line_color": "gray",
-				"network": "singapore-lrt",
-				"mode": "metro_rail"
+				"network": "singapore-lrt"
 			},
 			"geometry": {
 				"type": "LineString",
@@ -990,12 +988,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1992702472,
 			"properties": {
 				"name": "Circle Line",
 				"line_color": "orange",
-				"network": "singapore-mrt",
-				"mode": "metro_rail"
+				"network": "singapore-mrt"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -4869,12 +4865,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1847198250,
 			"properties": {
 				"name": "Downtown Line",
 				"line_color": "darkslateblue",
-				"network": "singapore-mrt",
-				"mode": "metro_rail"
+				"network": "singapore-mrt"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -7104,12 +7098,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4201760492,
 			"properties": {
 				"name": "East West Line",
 				"line_color": "mediumseagreen",
-				"network": "singapore-mrt",
-				"mode": "metro_rail"
+				"network": "singapore-mrt"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -9875,12 +9867,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1099384342,
 			"properties": {
 				"name": "North East Line",
 				"line_color": "darkmagenta",
-				"network": "singapore-mrt",
-				"mode": "metro_rail"
+				"network": "singapore-mrt"
 			},
 			"geometry": {
 				"type": "LineString",
@@ -10522,12 +10512,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1208312384,
 			"properties": {
 				"name": "North South Line",
 				"line_color": "orangered",
-				"network": "singapore-mrt",
-				"mode": "metro_rail"
+				"network": "singapore-mrt"
 			},
 			"geometry": {
 				"type": "LineString",
@@ -12945,12 +12933,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 11896908,
 			"properties": {
 				"name": "Punggol LRT (East Loop)",
 				"line_color": "gray",
-				"network": "singapore-lrt",
-				"mode": "metro_rail"
+				"network": "singapore-lrt"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -13346,12 +13332,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 923201818,
 			"properties": {
 				"name": "Punggol LRT (West Loop)",
 				"line_color": "gray",
-				"network": "singapore-lrt",
-				"mode": "metro_rail"
+				"network": "singapore-lrt"
 			},
 			"geometry": {
 				"type": "LineString",
@@ -13689,12 +13673,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2750360792,
 			"properties": {
 				"name": "Sengkang LRT (East Loop)",
 				"line_color": "gray",
-				"network": "singapore-lrt",
-				"mode": "metro_rail"
+				"network": "singapore-lrt"
 			},
 			"geometry": {
 				"type": "LineString",
@@ -14080,12 +14062,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3834634574,
 			"properties": {
 				"name": "Sengkang LRT (West Loop)",
 				"line_color": "gray",
-				"network": "singapore-lrt",
-				"mode": "metro_rail"
+				"network": "singapore-lrt"
 			},
 			"geometry": {
 				"type": "LineString",
@@ -14523,12 +14503,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1523050407,
 			"properties": {
 				"name": "Thomson-East Coast Line",
 				"line_color": "saddlebrown",
-				"network": "singapore-mrt",
-				"mode": "metro_rail"
+				"network": "singapore-mrt"
 			},
 			"geometry": {
 				"type": "LineString",

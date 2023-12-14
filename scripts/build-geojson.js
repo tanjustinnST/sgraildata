@@ -159,30 +159,17 @@ const stations = Object.values(stops)
     const joinedCodes = codes.join("-");
     stationCodes.push(joinedCodes);
 
-    const p = point(
-      coords.reverse(),
-      {
-        name,
-        "name_zh-Hans": name_zh_Hans,
-        name_ta,
-        network: brands.map(brand2Network).join("."),
-        // Custom
-        network_count: codes.length,
-        station_codes: joinedCodes,
-        station_colors: codes
-          .map((c) => c.replace(/\d+$/, ""))
-          .map(code2Color)
-          .join("-"),
-        wikipedia: `en:${title}`, // https://wiki.openstreetmap.org/wiki/Key:wikipedia
-        wikipedia_slug: url.replace(/^.*\/wiki\//i, ""),
-        // Follow Mapbox
-        stop_type: "station",
-        mode: "metro_rail",
-      },
-      {
-        id: hash(joinedCodes),
-      }
-    );
+    const p = point(coords.reverse(), {
+      name,
+      network: brands.map(brand2Network).join("."),
+      // Custom
+      network_count: codes.length,
+      station_codes: joinedCodes,
+      station_colors: codes
+        .map((c) => c.replace(/\d+$/, ""))
+        .map(code2Color)
+        .join("-"),
+    });
     return p;
   })
   .sort((a, b) => a.properties.name.localeCompare(b.properties.name));
@@ -267,22 +254,16 @@ const lines = routes
       name: long_name.trim(),
       line_color: color2Name(color),
       network: brand2Network(brand),
-      // Follow Mapbox
-      mode: "metro_rail",
-    };
-    const opts = {
-      id: hash(live_line_code),
     };
 
     let l;
     // console.log({ long_name, c: lines.length });
     if (lines.length === 1) {
-      l = lineString(chaikin(lines[0], 3), props, opts);
+      l = lineString(chaikin(lines[0], 3), props);
     } else {
       l = multiLineString(
         lines.map((l) => chaikin(l, 3)),
-        props,
-        opts
+        props
       );
     }
     return truncate(
@@ -324,13 +305,10 @@ const exitsList = exitsData.features
       // Custom
       station_codes: joinedCodes,
     };
-    const opts = {
-      id: hash(stn_name + exit_code),
-    };
     const truncGeometry = truncate(geometry, {
       coordinates: 2,
     });
-    const e = feature(truncGeometry, props, opts);
+    const e = feature(truncGeometry, props);
     return e;
   })
   .filter(Boolean)
@@ -361,13 +339,10 @@ const telExitsList = Object.entries(telExitsData)
         // Custom
         station_codes: joinedCodes,
       };
-      const opts = {
-        id: hash(stn_name + exit_code),
-      };
       const truncGeometry = truncate(geometry, {
         coordinates: 2,
       });
-      const e = feature(truncGeometry, props, opts);
+      const e = feature(truncGeometry, props);
       return e;
     });
   })
@@ -427,14 +402,11 @@ const buildings = stationData.features
       underground: !isAboveGround,
       type: "subway",
     };
-    const opts = {
-      id: hash(name),
-    };
     const truncGeometry = truncate(geometry, {
       precision: 8,
       coordinates: 2,
     });
-    const b = rewind(feature(truncGeometry, props, opts));
+    const b = rewind(feature(truncGeometry, props));
     return b;
   })
   .filter(Boolean)

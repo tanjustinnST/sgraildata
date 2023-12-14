@@ -3,7 +3,6 @@
 	"features": [
 		{
 			"type": "Feature",
-			"id": 194670299,
 			"properties": {
 				"station_codes": "BP10",
 				"underground": false,
@@ -99,7 +98,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 194664583,
 			"properties": {
 				"station_codes": "BP11",
 				"underground": false,
@@ -171,7 +169,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1146760283,
 			"properties": {
 				"station_codes": "BP12",
 				"underground": false,
@@ -251,7 +248,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 170008822,
 			"properties": {
 				"station_codes": "BP13",
 				"underground": false,
@@ -319,7 +315,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2670535869,
 			"properties": {
 				"station_codes": "BP2",
 				"underground": false,
@@ -371,7 +366,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2506661296,
 			"properties": {
 				"station_codes": "BP3",
 				"underground": false,
@@ -455,7 +449,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1476353503,
 			"properties": {
 				"station_codes": "BP4",
 				"underground": false,
@@ -523,7 +516,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3973681224,
 			"properties": {
 				"station_codes": "BP5",
 				"underground": false,
@@ -571,7 +563,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 194933855,
 			"properties": {
 				"station_codes": "BP7",
 				"underground": false,
@@ -647,7 +638,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2887870138,
 			"properties": {
 				"station_codes": "BP8",
 				"underground": false,
@@ -703,7 +693,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1971671737,
 			"properties": {
 				"station_codes": "BP9",
 				"underground": false,
@@ -763,7 +752,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2677077493,
 			"properties": {
 				"station_codes": "CC10-DT26",
 				"underground": true,
@@ -1003,7 +991,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2677077493,
 			"properties": {
 				"station_codes": "CC10-DT26",
 				"underground": true,
@@ -1235,7 +1222,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 995971878,
 			"properties": {
 				"station_codes": "CC11",
 				"underground": true,
@@ -1435,7 +1421,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 959838160,
 			"properties": {
 				"station_codes": "CC12",
 				"underground": true,
@@ -1563,7 +1548,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1471462371,
 			"properties": {
 				"station_codes": "CC14",
 				"underground": true,
@@ -1703,7 +1687,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2248419375,
 			"properties": {
 				"station_codes": "CC16",
 				"underground": true,
@@ -1835,7 +1818,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 813984964,
 			"properties": {
 				"station_codes": "CC17-TE9",
 				"underground": true,
@@ -2019,7 +2001,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 813984964,
 			"properties": {
 				"station_codes": "CC17-TE9",
 				"underground": true,
@@ -2355,7 +2336,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 987452947,
 			"properties": {
 				"station_codes": "CC19-DT9",
 				"underground": true,
@@ -2475,7 +2455,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 987452947,
 			"properties": {
 				"station_codes": "CC19-DT9",
 				"underground": true,
@@ -2707,7 +2686,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 120784542,
 			"properties": {
 				"station_codes": "CC2",
 				"underground": true,
@@ -3023,7 +3001,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 983965773,
 			"properties": {
 				"station_codes": "CC20",
 				"underground": true,
@@ -3171,7 +3148,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 300439925,
 			"properties": {
 				"station_codes": "CC21",
 				"underground": true,
@@ -3427,7 +3403,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1106719918,
 			"properties": {
 				"station_codes": "CC23",
 				"underground": true,
@@ -3639,7 +3614,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3907189772,
 			"properties": {
 				"station_codes": "CC24",
 				"underground": true,
@@ -3811,7 +3785,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2345507046,
 			"properties": {
 				"station_codes": "CC25",
 				"underground": true,
@@ -3995,7 +3968,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3995086817,
 			"properties": {
 				"station_codes": "CC26",
 				"underground": true,
@@ -4143,7 +4115,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3850473064,
 			"properties": {
 				"station_codes": "CC27",
 				"underground": true,
@@ -4395,7 +4366,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 387305139,
 			"properties": {
 				"station_codes": "CC28",
 				"underground": true,
@@ -4579,7 +4549,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2003458080,
 			"properties": {
 				"station_codes": "CC3",
 				"underground": true,
@@ -4865,7 +4834,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2008150702,
 			"properties": {
 				"station_codes": "CC4-DT15",
 				"underground": true,
@@ -5105,7 +5073,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1549326575,
 			"properties": {
 				"station_codes": "CC5",
 				"underground": true,
@@ -5225,7 +5192,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1836454198,
 			"properties": {
 				"station_codes": "CC6",
 				"underground": true,
@@ -5857,7 +5823,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3091802624,
 			"properties": {
 				"station_codes": "CC7",
 				"underground": true,
@@ -6017,7 +5982,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1323245873,
 			"properties": {
 				"station_codes": "CC8",
 				"underground": true,
@@ -6157,7 +6121,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 948493100,
 			"properties": {
 				"station_codes": "CG2",
 				"underground": true,
@@ -6273,7 +6236,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4002050425,
 			"properties": {
 				"station_codes": "DT1-BP6",
 				"underground": true,
@@ -6845,7 +6807,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4002050425,
 			"properties": {
 				"station_codes": "DT1-BP6",
 				"underground": false,
@@ -6901,7 +6862,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2753184715,
 			"properties": {
 				"station_codes": "DT10-TE11",
 				"underground": true,
@@ -7461,7 +7421,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2753184715,
 			"properties": {
 				"station_codes": "DT10-TE11",
 				"underground": true,
@@ -7561,7 +7520,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2126563246,
 			"properties": {
 				"station_codes": "DT13",
 				"underground": true,
@@ -7961,7 +7919,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1909336414,
 			"properties": {
 				"station_codes": "DT16-CE1",
 				"underground": true,
@@ -8089,7 +8046,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 5381,
 			"properties": {
 				"station_codes": "DT17",
 				"underground": true,
@@ -8173,7 +8129,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 993834803,
 			"properties": {
 				"station_codes": "DT18",
 				"underground": true,
@@ -8401,7 +8356,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2012145230,
 			"properties": {
 				"station_codes": "DT2",
 				"underground": true,
@@ -8473,7 +8427,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3224940948,
 			"properties": {
 				"station_codes": "DT20",
 				"underground": true,
@@ -8549,7 +8502,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 677156552,
 			"properties": {
 				"station_codes": "DT21",
 				"underground": true,
@@ -8805,7 +8757,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1816352842,
 			"properties": {
 				"station_codes": "DT22",
 				"underground": true,
@@ -8985,7 +8936,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1816352842,
 			"properties": {
 				"station_codes": "DT23",
 				"underground": true,
@@ -9101,7 +9051,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3608784214,
 			"properties": {
 				"station_codes": "DT24",
 				"underground": true,
@@ -9417,7 +9366,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3681911482,
 			"properties": {
 				"station_codes": "DT25",
 				"underground": true,
@@ -9561,7 +9509,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 193418395,
 			"properties": {
 				"station_codes": "DT27",
 				"underground": true,
@@ -9657,7 +9604,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4184066540,
 			"properties": {
 				"station_codes": "DT28",
 				"underground": true,
@@ -9785,7 +9731,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2616169645,
 			"properties": {
 				"station_codes": "DT29",
 				"underground": true,
@@ -9905,7 +9850,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 529031657,
 			"properties": {
 				"station_codes": "DT3",
 				"underground": true,
@@ -9993,7 +9937,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1966315123,
 			"properties": {
 				"station_codes": "DT30",
 				"underground": true,
@@ -10089,7 +10032,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1770218505,
 			"properties": {
 				"station_codes": "DT31",
 				"underground": true,
@@ -10213,7 +10155,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1393476959,
 			"properties": {
 				"station_codes": "DT33",
 				"underground": true,
@@ -10437,7 +10378,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 437729869,
 			"properties": {
 				"station_codes": "DT34",
 				"underground": true,
@@ -10685,7 +10625,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 611689765,
 			"properties": {
 				"station_codes": "DT35-CG1",
 				"underground": false,
@@ -10797,7 +10736,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 611689765,
 			"properties": {
 				"station_codes": "DT35-CG1",
 				"underground": true,
@@ -11029,7 +10967,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1452569369,
 			"properties": {
 				"station_codes": "DT5",
 				"underground": true,
@@ -11549,7 +11486,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1410800746,
 			"properties": {
 				"station_codes": "DT6",
 				"underground": true,
@@ -11793,7 +11729,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2747424023,
 			"properties": {
 				"station_codes": "DT7",
 				"underground": true,
@@ -11921,7 +11856,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1431782263,
 			"properties": {
 				"station_codes": "DT8",
 				"underground": true,
@@ -12061,7 +11995,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3286764214,
 			"properties": {
 				"station_codes": "EW1",
 				"underground": true,
@@ -12637,7 +12570,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3286764214,
 			"properties": {
 				"station_codes": "EW1",
 				"underground": false,
@@ -12777,7 +12709,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2897072167,
 			"properties": {
 				"station_codes": "EW10",
 				"underground": false,
@@ -12929,7 +12860,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2861486022,
 			"properties": {
 				"station_codes": "EW11",
 				"underground": true,
@@ -13133,7 +13063,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 836755460,
 			"properties": {
 				"station_codes": "EW12-DT14",
 				"underground": true,
@@ -13357,7 +13286,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 195993871,
 			"properties": {
 				"station_codes": "EW12-DT14",
 				"underground": true,
@@ -13557,7 +13485,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1460554039,
 			"properties": {
 				"station_codes": "EW15",
 				"underground": true,
@@ -13805,7 +13732,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4148937821,
 			"properties": {
 				"station_codes": "EW16-NE3-TE17",
 				"underground": true,
@@ -13877,7 +13803,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4148937821,
 			"properties": {
 				"station_codes": "EW16-NE3-TE17",
 				"underground": true,
@@ -14233,7 +14158,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4148937821,
 			"properties": {
 				"station_codes": "EW16-NE3-TE17",
 				"underground": true,
@@ -14525,7 +14449,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3431474450,
 			"properties": {
 				"station_codes": "EW17",
 				"underground": true,
@@ -15049,7 +14972,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4032334263,
 			"properties": {
 				"station_codes": "EW18",
 				"underground": false,
@@ -15321,7 +15243,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1563834526,
 			"properties": {
 				"station_codes": "EW19",
 				"underground": false,
@@ -15365,7 +15286,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1963327452,
 			"properties": {
 				"station_codes": "EW2-DT32",
 				"underground": false,
@@ -15433,7 +15353,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1963327452,
 			"properties": {
 				"station_codes": "EW2-DT32",
 				"underground": true,
@@ -15549,7 +15468,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 980449323,
 			"properties": {
 				"station_codes": "EW20",
 				"underground": false,
@@ -15585,7 +15503,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2467885385,
 			"properties": {
 				"station_codes": "EW21-CC22",
 				"underground": false,
@@ -15689,7 +15606,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2467885385,
 			"properties": {
 				"station_codes": "EW21-CC22",
 				"underground": true,
@@ -15881,7 +15797,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 194504847,
 			"properties": {
 				"station_codes": "EW22",
 				"underground": false,
@@ -15989,7 +15904,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3266210964,
 			"properties": {
 				"station_codes": "EW23",
 				"underground": false,
@@ -16041,7 +15955,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1941683969,
 			"properties": {
 				"station_codes": "EW25",
 				"underground": false,
@@ -16089,7 +16002,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1430402781,
 			"properties": {
 				"station_codes": "EW26",
 				"underground": false,
@@ -16193,7 +16105,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3600138271,
 			"properties": {
 				"station_codes": "EW27",
 				"underground": false,
@@ -16281,7 +16192,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3600138271,
 			"properties": {
 				"station_codes": "EW27",
 				"underground": false,
@@ -16569,7 +16479,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1387092751,
 			"properties": {
 				"station_codes": "EW28",
 				"underground": false,
@@ -17205,7 +17114,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3716690698,
 			"properties": {
 				"station_codes": "EW29",
 				"underground": false,
@@ -17825,7 +17733,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 179106334,
 			"properties": {
 				"station_codes": "EW3",
 				"underground": false,
@@ -17893,7 +17800,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3173797577,
 			"properties": {
 				"station_codes": "EW30",
 				"underground": false,
@@ -17937,7 +17843,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2298858669,
 			"properties": {
 				"station_codes": "EW31",
 				"underground": false,
@@ -18249,7 +18154,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3825041019,
 			"properties": {
 				"station_codes": "EW32",
 				"underground": false,
@@ -18469,7 +18373,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1559741398,
 			"properties": {
 				"station_codes": "EW33",
 				"underground": false,
@@ -18625,7 +18528,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1075852422,
 			"properties": {
 				"station_codes": "EW4-CG",
 				"underground": false,
@@ -18733,7 +18635,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 185869570,
 			"properties": {
 				"station_codes": "EW5",
 				"underground": false,
@@ -18885,7 +18786,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1667641859,
 			"properties": {
 				"station_codes": "EW6",
 				"underground": false,
@@ -18997,7 +18897,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 195920647,
 			"properties": {
 				"station_codes": "EW7",
 				"underground": false,
@@ -19271,7 +19170,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4106078422,
 			"properties": {
 				"station_codes": "EW8-CC9",
 				"underground": false,
@@ -19555,7 +19453,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4106078422,
 			"properties": {
 				"station_codes": "EW8-CC9",
 				"underground": true,
@@ -19755,7 +19652,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1459081361,
 			"properties": {
 				"station_codes": "EW9",
 				"underground": false,
@@ -19903,7 +19799,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4198151159,
 			"properties": {
 				"station_codes": "NE1-CC29",
 				"underground": true,
@@ -20253,7 +20148,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4198151159,
 			"properties": {
 				"station_codes": "NE1-CC29",
 				"underground": true,
@@ -20449,7 +20343,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3345228241,
 			"properties": {
 				"station_codes": "NE10",
 				"underground": true,
@@ -20685,7 +20578,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4155171513,
 			"properties": {
 				"station_codes": "NE11",
 				"underground": true,
@@ -20857,7 +20749,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 578671237,
 			"properties": {
 				"station_codes": "NE12-CC13",
 				"underground": true,
@@ -21069,7 +20960,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 578671237,
 			"properties": {
 				"station_codes": "NE12-CC13",
 				"underground": true,
@@ -21249,7 +21139,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 180451864,
 			"properties": {
 				"station_codes": "NE13",
 				"underground": true,
@@ -21417,7 +21306,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3002600410,
 			"properties": {
 				"station_codes": "NE14",
 				"underground": true,
@@ -21569,7 +21457,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3002600410,
 			"properties": {
 				"station_codes": "NE14",
 				"underground": true,
@@ -22207,7 +22094,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1049320053,
 			"properties": {
 				"station_codes": "NE15",
 				"underground": true,
@@ -22483,7 +22369,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1126405529,
 			"properties": {
 				"station_codes": "NE16-STC",
 				"underground": true,
@@ -22519,7 +22404,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1976356666,
 			"properties": {
 				"station_codes": "NE16-STC",
 				"underground": false,
@@ -22571,7 +22455,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 410882798,
 			"properties": {
 				"station_codes": "NE17-PTC",
 				"underground": false,
@@ -22639,7 +22522,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3981678829,
 			"properties": {
 				"station_codes": "NE17-PTC",
 				"underground": true,
@@ -23155,7 +23037,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 5381,
 			"properties": {
 				"station_codes": "NE4-DT19",
 				"underground": true,
@@ -23471,7 +23352,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3800399338,
 			"properties": {
 				"station_codes": "NE4-DT19",
 				"underground": true,
@@ -23763,7 +23643,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3187599403,
 			"properties": {
 				"station_codes": "NE5",
 				"underground": true,
@@ -24063,7 +23942,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 557446976,
 			"properties": {
 				"station_codes": "NE7-DT12",
 				"underground": true,
@@ -24335,7 +24213,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 557446976,
 			"properties": {
 				"station_codes": "NE7-DT12",
 				"underground": true,
@@ -24475,7 +24352,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 826563645,
 			"properties": {
 				"station_codes": "NE8",
 				"underground": true,
@@ -24967,7 +24843,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1863863502,
 			"properties": {
 				"station_codes": "NE9",
 				"underground": true,
@@ -25247,7 +25122,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1475255791,
 			"properties": {
 				"station_codes": "NS1-EW24",
 				"underground": false,
@@ -25411,7 +25285,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1475255791,
 			"properties": {
 				"station_codes": "NS1-EW24",
 				"underground": false,
@@ -25583,7 +25456,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 499371990,
 			"properties": {
 				"station_codes": "NS10",
 				"underground": false,
@@ -25719,7 +25591,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3596296066,
 			"properties": {
 				"station_codes": "NS11",
 				"underground": false,
@@ -25815,7 +25686,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3738757455,
 			"properties": {
 				"station_codes": "NS12",
 				"underground": false,
@@ -26283,7 +26153,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1682859125,
 			"properties": {
 				"station_codes": "NS13",
 				"underground": false,
@@ -26339,7 +26208,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1512828504,
 			"properties": {
 				"station_codes": "NS14",
 				"underground": false,
@@ -26723,7 +26591,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3149406439,
 			"properties": {
 				"station_codes": "NS15",
 				"underground": false,
@@ -26831,7 +26698,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2561740384,
 			"properties": {
 				"station_codes": "NS16",
 				"underground": false,
@@ -26923,7 +26789,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2561740384,
 			"properties": {
 				"station_codes": "NS16",
 				"underground": true,
@@ -27371,7 +27236,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 356116536,
 			"properties": {
 				"station_codes": "NS17-CC15",
 				"underground": false,
@@ -27451,7 +27315,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 356116536,
 			"properties": {
 				"station_codes": "NS17-CC15",
 				"underground": true,
@@ -27671,7 +27534,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3762613873,
 			"properties": {
 				"station_codes": "NS18",
 				"underground": true,
@@ -27827,7 +27689,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 704517744,
 			"properties": {
 				"station_codes": "NS19",
 				"underground": true,
@@ -27971,7 +27832,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 324394903,
 			"properties": {
 				"station_codes": "NS2",
 				"underground": false,
@@ -28063,7 +27923,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1311056632,
 			"properties": {
 				"station_codes": "NS20",
 				"underground": true,
@@ -28219,7 +28078,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1648156524,
 			"properties": {
 				"station_codes": "NS21-DT11",
 				"underground": true,
@@ -28427,7 +28285,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 5381,
 			"properties": {
 				"station_codes": "NS21-DT11",
 				"underground": true,
@@ -28539,7 +28396,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2990658884,
 			"properties": {
 				"station_codes": "NS22-TE14",
 				"underground": true,
@@ -28647,7 +28503,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2990658884,
 			"properties": {
 				"station_codes": "NS22-TE14",
 				"underground": true,
@@ -29597,7 +29452,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3764300065,
 			"properties": {
 				"station_codes": "NS23",
 				"underground": true,
@@ -29705,7 +29559,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2242857072,
 			"properties": {
 				"station_codes": "NS24-NE6-CC1",
 				"underground": true,
@@ -29957,7 +29810,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2242857072,
 			"properties": {
 				"station_codes": "NS24-NE6-CC1",
 				"underground": true,
@@ -30145,7 +29997,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2242857072,
 			"properties": {
 				"station_codes": "NS24-NE6-CC1",
 				"underground": true,
@@ -30225,7 +30076,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 573482763,
 			"properties": {
 				"station_codes": "NS25-EW13",
 				"underground": true,
@@ -30441,7 +30291,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3812813045,
 			"properties": {
 				"station_codes": "NS26-EW14",
 				"underground": true,
@@ -30657,7 +30506,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3343154375,
 			"properties": {
 				"station_codes": "NS27-CE2-TE20",
 				"underground": true,
@@ -30813,7 +30661,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3343154375,
 			"properties": {
 				"station_codes": "NS27-CE2-TE20",
 				"underground": true,
@@ -30921,7 +30768,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3343154375,
 			"properties": {
 				"station_codes": "NS27-CE2-TE20",
 				"underground": true,
@@ -31233,7 +31079,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3343154375,
 			"properties": {
 				"station_codes": "NS27-CE2-TE20",
 				"underground": true,
@@ -31277,7 +31122,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3732185929,
 			"properties": {
 				"station_codes": "NS3",
 				"underground": false,
@@ -31373,7 +31217,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 851115677,
 			"properties": {
 				"station_codes": "NS4-BP1",
 				"underground": false,
@@ -31481,7 +31324,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 851115677,
 			"properties": {
 				"station_codes": "NS4-BP1",
 				"underground": false,
@@ -31549,7 +31391,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 851115677,
 			"properties": {
 				"station_codes": "NS4-BP1",
 				"underground": false,
@@ -31593,7 +31434,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3788622938,
 			"properties": {
 				"station_codes": "NS5",
 				"underground": false,
@@ -31733,7 +31573,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1610002864,
 			"properties": {
 				"station_codes": "NS7",
 				"underground": false,
@@ -31841,7 +31680,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1268050893,
 			"properties": {
 				"station_codes": "NS8",
 				"underground": false,
@@ -31925,7 +31763,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4215480640,
 			"properties": {
 				"station_codes": "NS9-TE2",
 				"underground": false,
@@ -32125,7 +31962,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4215480640,
 			"properties": {
 				"station_codes": "NS9-TE2",
 				"underground": true,
@@ -32729,7 +32565,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2087429978,
 			"properties": {
 				"station_codes": "PE1",
 				"underground": false,
@@ -32765,7 +32600,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2912938676,
 			"properties": {
 				"station_codes": "PE2",
 				"underground": false,
@@ -32801,7 +32635,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 779292981,
 			"properties": {
 				"station_codes": "PE3",
 				"underground": false,
@@ -32837,7 +32670,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 775141271,
 			"properties": {
 				"station_codes": "PE4",
 				"underground": false,
@@ -32873,7 +32705,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1188324596,
 			"properties": {
 				"station_codes": "PE5",
 				"underground": false,
@@ -32909,7 +32740,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 195981186,
 			"properties": {
 				"station_codes": "PE6",
 				"underground": false,
@@ -32945,7 +32775,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 179241093,
 			"properties": {
 				"station_codes": "PE7",
 				"underground": false,
@@ -32981,7 +32810,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3782763653,
 			"properties": {
 				"station_codes": "PW1",
 				"underground": false,
@@ -33125,7 +32953,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 157563376,
 			"properties": {
 				"station_codes": "PW2",
 				"underground": false,
@@ -33161,7 +32988,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2211644033,
 			"properties": {
 				"station_codes": "PW3",
 				"underground": false,
@@ -33197,7 +33023,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 4098674013,
 			"properties": {
 				"station_codes": "PW4",
 				"underground": false,
@@ -33233,7 +33058,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1388811430,
 			"properties": {
 				"station_codes": "PW5",
 				"underground": false,
@@ -33269,7 +33093,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1389296550,
 			"properties": {
 				"station_codes": "PW6",
 				"underground": false,
@@ -33313,7 +33136,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2987592623,
 			"properties": {
 				"station_codes": "PW7",
 				"underground": false,
@@ -33349,7 +33171,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2006370827,
 			"properties": {
 				"station_codes": "SE1",
 				"underground": false,
@@ -33385,7 +33206,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1316991301,
 			"properties": {
 				"station_codes": "SE2",
 				"underground": false,
@@ -33421,7 +33241,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 184004505,
 			"properties": {
 				"station_codes": "SE3",
 				"underground": false,
@@ -33457,7 +33276,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1550494782,
 			"properties": {
 				"station_codes": "SE4",
 				"underground": false,
@@ -33493,7 +33311,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1610243972,
 			"properties": {
 				"station_codes": "SE5",
 				"underground": false,
@@ -33529,7 +33346,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 785478954,
 			"properties": {
 				"station_codes": "SW1",
 				"underground": false,
@@ -33565,7 +33381,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1096825650,
 			"properties": {
 				"station_codes": "SW2",
 				"underground": false,
@@ -33601,7 +33416,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1389324771,
 			"properties": {
 				"station_codes": "SW3",
 				"underground": false,
@@ -33637,7 +33451,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 811080282,
 			"properties": {
 				"station_codes": "SW4",
 				"underground": false,
@@ -33673,7 +33486,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2853094372,
 			"properties": {
 				"station_codes": "SW5",
 				"underground": false,
@@ -34021,7 +33833,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 194658050,
 			"properties": {
 				"station_codes": "SW6",
 				"underground": false,
@@ -34057,7 +33868,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1126405332,
 			"properties": {
 				"station_codes": "SW7",
 				"underground": false,
@@ -34093,7 +33903,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2881384048,
 			"properties": {
 				"station_codes": "SW8",
 				"underground": false,
@@ -34129,7 +33938,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 757114775,
 			"properties": {
 				"station_codes": "TE1",
 				"underground": true,
@@ -34301,7 +34109,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2124570052,
 			"properties": {
 				"station_codes": "TE12",
 				"underground": true,
@@ -34505,7 +34312,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 5381,
 			"properties": {
 				"station_codes": "TE13",
 				"underground": true,
@@ -34641,7 +34447,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2632136386,
 			"properties": {
 				"station_codes": "TE15",
 				"underground": true,
@@ -35425,7 +35230,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2897240276,
 			"properties": {
 				"station_codes": "TE16",
 				"underground": true,
@@ -35957,7 +35761,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 5381,
 			"properties": {
 				"station_codes": "TE18",
 				"underground": true,
@@ -36221,7 +36024,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2462792783,
 			"properties": {
 				"station_codes": "TE19",
 				"underground": true,
@@ -36357,7 +36159,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 3006034709,
 			"properties": {
 				"station_codes": "TE22",
 				"underground": true,
@@ -36717,7 +36518,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2129125943,
 			"properties": {
 				"station_codes": "TE3",
 				"underground": true,
@@ -37005,7 +36805,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 1867671930,
 			"properties": {
 				"station_codes": "TE4",
 				"underground": true,
@@ -37809,7 +37608,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2126407339,
 			"properties": {
 				"station_codes": "TE5",
 				"underground": true,
@@ -38457,7 +38255,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 2151786677,
 			"properties": {
 				"station_codes": "TE6",
 				"underground": true,
@@ -38745,7 +38542,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 752969572,
 			"properties": {
 				"station_codes": "TE7",
 				"underground": true,
@@ -39757,7 +39553,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 622394795,
 			"properties": {
 				"station_codes": "TE8",
 				"underground": true,
